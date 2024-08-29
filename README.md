@@ -10,7 +10,7 @@ We simplify complex video infrastructure processes and provide the basis for cre
  
 ## 🖐️ Stay in Touch
  
-- **[Forum](#)**: A place to discuss, ask questions, find answers, showcase your api.video project, get feedback, or just talk with other community members and the core team.
+- **[Community](#)**: A place to discuss, ask questions, find answers, showcase your api.video project, get feedback, or just talk with other community members and the core team.
 - **[Contact Us](https://www.fastpix.io/contact-us)**: Reach out for support, inquiries, or more information.
 
  
