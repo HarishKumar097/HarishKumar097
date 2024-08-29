@@ -5,7 +5,7 @@ We simplify complex video infrastructure processes and provide the basis for cre
 ## 📃 News & Resources
  
 - **[Documentation](https://docs.fastpix.io/)**: Explore detailed guides and API references to help you get started.
-- **[Fastpix Blog](https://www.fastpix.io/resources/blogs)**: Read in-depth articles about video, interesting use cases, company news, and a lot more!
+- **[FastPix Blog](https://www.fastpix.io/resources/blogs)**: Read in-depth articles about video, interesting use cases, company news, and a lot more!
   
  
 ## 🖐️ Stay in Touch
