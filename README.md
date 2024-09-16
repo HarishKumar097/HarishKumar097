@@ -1,7 +1,7 @@
 # Hi, we’re FastPix!
 [FastPix](https://www.fastpix.io/) is the only API that combines all things video, data, and AI, giving developers everything they need to build advanced video features into their products. 
 
-![image](https://github.com/user-attachments/assets/c026ae9d-24cd-4ac6-862f-5d55fe913e24)
+![image](https://github.com/user-attachments/assets/c026ae9d-24cd-4ac6-862f-5d55fe913e24)(https://www.fastpix.io/products/features)
 
 ## Our Why?
 [We know first-hand](https://www.fastpix.io/company) the challenges of building video products. Building online video can be complex due to the many interconnected elements like infrastructure, codecs, devices, and delivery networks. This complexity often results in longer development times and less reliable user experiences. Our products and features work individually or together. With built-in extensibility, you’ll spend less time engineering and more time scaling your business. 
