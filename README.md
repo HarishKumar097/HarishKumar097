@@ -1,7 +1,9 @@
 # Hi, we’re FastPix!
 [FastPix](https://www.fastpix.io/) is the only API that combines all things video, data, and AI, giving developers everything they need to build advanced video features into their products. 
 
-[![image](https://github.com/user-attachments/assets/d2f63b88-4ed8-4f0e-818a-5eec5d04e2f7)](https://fastpix.io/)
+<a href="https://fastpix.io" target="_blank">
+<img src="https://github.com/user-attachments/assets/d2f63b88-4ed8-4f0e-818a-5eec5d04e2f7" alt="FastPix" />
+</a>
 
 ## Our Why?
 [We know first-hand](https://www.fastpix.io/company) the challenges of building video products. Building online video can be complex due to the many interconnected elements like infrastructure, codecs, devices, and delivery networks. This complexity often results in longer development times and less reliable user experiences. Our products and features work individually or together. With built-in extensibility, you’ll spend less time engineering and more time scaling your business. 
@@ -11,7 +13,7 @@ FastPix API is designed to simplify these challenges, helping developers build n
 ## Features to build video 
 Turn your vision into reality faster with our APIs, with [advanced video features](https://www.fastpix.io/products/features):  
 
-![image](https://github.com/user-attachments/assets/6c2454aa-e519-432f-a074-5a0861137eab)
+[![image](https://github.com/user-attachments/assets/6c2454aa-e519-432f-a074-5a0861137eab)](https://www.fastpix.io/products/features)
 
 - **Flexible video input options:** Easily build video input into your product with our all-rounded options. Handle various methods and formats, from accelerated uploads to real-time encoding. Access policies allow you to control who can interact with your content, fitting your needs effectively.
   
