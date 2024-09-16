@@ -9,7 +9,7 @@
 FastPix API is designed to simplify these challenges, helping developers build next-gen video products and deliver high-quality video quickly and efficiently.
 
 ## Features to build video 
-Turn your vision into reality faster with our APIs, with [advanced video features (https://www.fastpix.io/products/features):  
+Turn your vision into reality faster with our APIs, with [advanced video features](https://www.fastpix.io/products/features):  
 
 ![image](https://github.com/user-attachments/assets/6c2454aa-e519-432f-a074-5a0861137eab)
 
@@ -24,7 +24,6 @@ Here are some of our favorite resources for getting started. Quickly familiarize
 
 - **[Documentation](https://docs.fastpix.io/api-references):** Comprehensive examples and references to help you understand and implement our API.
 
-
 - **[Guides](https://docs.fastpix.io/guides/overview):** Step-by-step instructions and tutorials for getting started and building and using our services.
 
 - **[Blogs](https://www.fastpix.io/resources/blogs):** Insights, updates, and use cases to see how others are using our product and stay informed about new features.
@@ -32,7 +31,7 @@ Here are some of our favorite resources for getting started. Quickly familiarize
 - **[Video Glossary](https://www.fastpix.io/resources/video-glossary):** Learn about almost all commonly used terminologies in video streaming. All things video!
 
 ## Be part of the community
-Connect with us and engage with users on our community platforms. Join our discussions on Discord, follow us on LinkedIn and Twitter for updates, and to stay in touch with latest news and developments in video tech. Our social media team keeps us surprised. No boring stuff. We look forward to your participation and feedback!
+Connect with us and engage with users on our community platforms. Join our discussions on Discord, follow us on [LinkedIn](https://www.linkedin.com/company/fastpix/mycompany/) and [Twitter](https://x.com/FastPixHQ) for updates, and to stay in touch with latest news and developments in video tech. Our social media team keeps us surprised. No boring stuff. We look forward to your participation and feedback!
 
 ## Interested in learning more? 
 Have questions or want to explore how our APIs can enhance your video-centric projects? Contact us to discuss your needs, request a demo, or get personalized support. 
